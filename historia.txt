@@ -3,4 +3,4 @@ xd
 
 :v
 
-como pide cambios el csm
+le cambio de nuevo pero ignorando lo que cambie antes
