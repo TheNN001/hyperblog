@@ -11,3 +11,9 @@ body {
     border: 1px solid #DDDDDD;
     margin: 0 auto;
 }
+
+header{
+    background: blueviolet;
+    color: white;
+    padding: 20px;
+}
