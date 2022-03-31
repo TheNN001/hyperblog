@@ -4,3 +4,4 @@ xd
 :v
 
 le cambio de nuevo pero ignorando lo que cambie antes
+este cambio ahora esta en github
